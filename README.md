@@ -13,8 +13,6 @@ Analytics — turning raw data into actionable insight
 Documentation — creating clear, lasting records of processes and decisions
 Process Design — finding better ways to do things and making them stick
 
-
-
 About the Company
 Strokes and Barrels is a small Amazon business growing toward a more automated, scalable future. The internship is structured to give contributors meaningful access to that journey — from the technical infrastructure to the business logic behind it.
 
