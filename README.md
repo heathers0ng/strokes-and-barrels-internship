@@ -3,7 +3,7 @@ Heather Song
 Software Engineering & BizOps Intern
 Strokes and Barrels · Summer 2026
 
-About This Internship
+About This Internship:
 Over the course of the program, the work spans software development, business operations, analytics, documentation, and process design. The goal is to help evolve the brand from a boutique operation into a more automated and scalable platform.
 
 Areas of Work
