@@ -15,3 +15,6 @@ About the Company
 Strokes and Barrels is a small Amazon business growing toward a more automated, scalable future. The internship is structured to give contributors meaningful access to that journey — from the technical infrastructure to the business logic behind it.
 
 strokesandbarrels@gmail.com
+
+Daily Log:
+Day 1
