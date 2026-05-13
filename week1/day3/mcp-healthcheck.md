@@ -1,0 +1,1 @@
+Ran the MCP Health Check across 5 connectors. Shopify, Gmail, and Google Drive all connected and returned data successfully. GitHub was unavailable because no GitHub connector exists in the Cowork registry, so both the read and write tests were skipped.
