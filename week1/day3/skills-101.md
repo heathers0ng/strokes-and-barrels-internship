@@ -1,0 +1,1 @@
+A Cowork skill is a saved set of instructions that teaches Claude how to handle a specific recurring task. For Strokes & Barrels, a helpful skill to build would be a low inventory alert that automatically check stock levels weekly and emails a reorder summary whenever any SKU dips below a threshold.
