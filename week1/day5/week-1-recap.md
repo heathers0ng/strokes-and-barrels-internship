@@ -1,0 +1,4 @@
+What did I set up? This week, I set up the Shopify storefront and connected the bluebox website domain to redirect to our Shopify page. I learned more about Claude, set up cowork, and added scheduled tasks that email us weekly with updates about our amazon listings and golf news. I created an artifact to help us generate listings for our products for our Shopify page to set us up for next week. 
+What surprised me about Cowork or the business? I was surprised that Cowork could email us weekly updates and code internal artifacts to help us maximize our products.
+What is still blocked or unclear? I am unclear the exact process of adding our products to Shopify. I will work on this more next week.
+What am I most excited to build next week? I am excited to add our products to Shopify and see it turn into a real Shopify storefront.
