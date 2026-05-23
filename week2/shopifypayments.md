@@ -1,0 +1,1 @@
+I set up Shopify Payments as the store's primary payment processor, configuring billing details, banking information, and accepted payment methods to ensure seamless transactions for customers at checkout.
