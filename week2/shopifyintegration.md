@@ -1,0 +1,1 @@
+I connected my Shopify products to Amazon by setting up the integration between my Shopify store and Amazon Seller account. I mapped the existing products to Amazon listings, ensuring the details, pricing, and inventory were synced across both platforms. Once everything was configured, I was able to manage my Amazon sales directly from Shopify.
