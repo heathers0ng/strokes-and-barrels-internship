@@ -1,0 +1,1 @@
+Performed a full inventory reconciliation to ensure stock counts reflect actual availability. Built a low-inventory notification system that proactively alerts when stock falls below threshold, reducing the risk of stockouts and lost sales.
