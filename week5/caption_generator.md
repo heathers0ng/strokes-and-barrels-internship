@@ -1,0 +1,1 @@
+AI Caption Generator is a Python command-line tool that generates on-brand Instagram captions for Strokes & Barrels using the Anthropic Claude API. Given a short description of a post, it returns three caption options written in the brand's voice, fun, confident, aimed at young diverse golfers, each ending with a shop CTA and capped at three hashtags.
