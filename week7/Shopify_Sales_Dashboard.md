@@ -1,0 +1,1 @@
+Built an end-to-end local sales analytics pipeline for the Strokes and Barrels Shopify store: a Python script pulls paid orders via the Admin API into a CSV, a single-file React dashboard visualizes it, and a local LM Studio model generates plain-English business summaries — no cloud services, all data stays on-device.
